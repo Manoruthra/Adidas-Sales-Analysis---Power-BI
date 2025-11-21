@@ -30,9 +30,5 @@ The dataset includes details such as Retailer, Product, Category, Region, State,
 •	Sales peaked in August and December indicating seasonal demand.
 •	Some states consistently underperformed, showing opportunities for targeted strategies.
 
-## Conclusion
-This dashboard empowers Adidas to make strategic decisions regarding inventory planning,promotional campaigns, pricing adjustments, and regional expansion opportunities. The project
-demonstrates effective use of Power BI for end-to-end data analysis and storytelling.
 
-promotional campaigns, pricing adjustments, and regional expansion opportunities. The project
 demonstrates effective use of Power BI for end-to-end data analysis and storytelling.
